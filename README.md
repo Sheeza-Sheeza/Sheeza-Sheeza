@@ -1,12 +1,8 @@
 <!-- Profile README for Sheeza Rafique -->
 
 <h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
-
-<p align="center">
-  <a href="https://github.com/Sheeza-Sheeza">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Data+Scientist+%7C+Deep+Learning+Enthusiast;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">AI Engineer | Data Scientist | Deep Learning Enthusiast</h3>
+<p align="center">Machine Learning | LLMs | RAG | Generative AI</p>
 
 ---
 
@@ -22,6 +18,7 @@ class AIEngineer:
 
     def say_hi(self):
         return "Let's innovate with AI together!"
+
 
 ```
 💡 Passionate about applying Machine Learning, Deep Learning, Generative AI, and RAG to solve real-world problems.
