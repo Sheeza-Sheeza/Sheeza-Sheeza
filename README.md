@@ -1,7 +1,12 @@
 <!-- Profile README for Sheeza Rafique -->
 
 <h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
-<h3 align="center">🚀 AI Engineer | Data Scientist | Machine Learning & Deep Learning Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/Sheeza-Sheeza">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Data+Scientist+%7C+Deep+Learning+Enthusiast;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -11,66 +16,66 @@
 class DataScientist:
     def __init__(self):
         self.name = "Sheeza Rafique"
-        self.role = "AI Engineer & Data Scientist"
+        self.role = "AI Engineer | Data Scientist | Deep Learning Enthusiast"
         self.focus = ["Machine Learning", "Deep Learning", "RAG", "LLMs"]
         self.status = "Always learning, building & innovating"
 
     def say_hi(self):
         print("Excited to connect and build impactful AI solutions together!")
 
+💡 Passionate about applying Machine Learning, Deep Learning, Generative AI, and RAG to solve real-world problems.
+💡 Strong foundation in Python, SQL, TensorFlow, Scikit-learn, Docker, Flask, Streamlit, PostgreSQL & Firebase.
+💡 Always eager to learn, build, and contribute to impactful AI-driven projects.
 
-💡 *"Turning data into intelligence, and intelligence into solutions."*
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </p>
+📌 Featured Projects
+📝 Twitter Sentiment Analysis
 
----
+Sentiment analysis on Apple product tweets using TensorFlow + NLP
 
-## 🛠️ Technical Skills
-- **Languages:** Python, SQL  
-- **ML & DL:** KNN, SVM, Random Forest, Regression, Clustering, CNN, RNN, LSTM  
-- **Frameworks & Tools:** TensorFlow, Keras, Scikit-learn, OpenCV, Flask, Streamlit, Docker, GitHub  
-- **Databases:** PostgreSQL, SQLite, Firebase  
-- **Other:** Model Deployment, Explainable AI  
+Integrated PostgreSQL for data storage & retrieval
 
----
+🧠 EEG Workload Detection in Pilots
 
-## 📌 Featured Projects  
+Developed a CNN-LSTM hybrid model
 
-### 📝 [Twitter Product Sentiment Analysis](#)  
-- Sentiment analysis on Apple product tweets using TensorFlow & NLP  
-- PostgreSQL integration for efficient storage & retrieval  
+Achieved 98.49% accuracy on EEG data
 
-### 🧠 [Mental Workload Detection in Pilots (EEG)](#)  
-- Developed **CNN-LSTM hybrid model**, achieving **98.49% accuracy**  
-- Specialized EEG preprocessing + deep learning  
+📄 Q/A Bot for Multiple PDFs (LLM + RAG)
 
-### 🎬 [Movies Recommender System](#)  
-- Built personalized recommender with **98% accuracy**  
-- Streamlit GUI + TMDB API integration  
+Built an LLM + RAG chatbot to query multiple PDFs
 
-### 📄 [Q/A Bot for Multiple PDFs](#)  
-- Developed **LLM + RAG powered chatbot** for querying PDFs  
-- Retrieves relevant sections + generates context-aware answers  
+Retrieves relevant content & generates accurate context-based answers
 
-### 🧪 [Cervical Cancer Prediction](#)  
-- Applied EDA & data visualization  
-- Achieved **95.34% accuracy** using XGBoost  
+🎬 Movie Recommender System
 
-👉 *Explore more projects on my [Repositories](https://github.com/Sheeza-Sheeza?tab=repositories)*  
+Personalized movie recommender with 98% accuracy
 
----
+Designed GUI with Streamlit + TMDB API integration
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheeza-Sheeza&show_icons=true&theme=tokyonight" alt="Sheeza's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheeza-Sheeza&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</p>
+🧪 Cervical Cancer Prediction
 
----
+Conducted EDA & Visualization
 
-## 🌐 Connect with Me
-📧 **Email:** [sheezarafique266@gmail.com](mailto:sheezarafique266@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sheezarafique672010238](https://linkedin.com/in/sheezarafique672010238)  
-💻 **GitHub:** [github.com/Sheeza-Sheeza](https://github.com/Sheeza-Sheeza)  
+Achieved 95.34% accuracy using XGBoost
+
+👉 Check out more on my Repositories
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sheeza-Sheeza&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheeza-Sheeza&theme=tokyonight" height="160" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheeza-Sheeza&layout=compact&theme=tokyonight" height="160" alt="Top Languages" /> </p>
+🌐 Connect with Me
+<p align="center"> <a href="mailto:sheezarafique266@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/sheezarafique672010238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Sheeza-Sheeza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sheeza-Sheeza&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
+
+
 
 ---
 
-⚡ *“Always learning. Always building. Always innovating.”*  
+✨ With this version, your profile will:  
+- Show an **animated typing effect** for your title.  
+- Have **badges for all your skills**.  
+- Show **profile views + GitHub streak stats**.  
+- Look **modern, professional, and eye-catching**.  
+
+Do you want me to also add a **“Pinned Projects” section** with **live demo links (if any)** for your Resume Analyzer, PDF Q/A Bot, or Recommender System? That would make recruiters click instantly.
