@@ -1,10 +1,16 @@
-# Hi 👋, I'm Sheeza Rafique  
+<!-- Dark Themed GitHub Profile README for Sheeza Rafique -->
 
-🚀 **AI & Data Science Enthusiast | Machine Learning Engineer | Deep Learning Researcher**  
+<h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
+<h3 align="center">🚀 AI & Data Science Enthusiast | Machine Learning Engineer | Deep Learning Researcher</h3>
 
-🔹 Passionate about solving real-world problems using **Machine Learning, Deep Learning, and LLMs (Large Language Models)**.  
-🔹 Strong foundation in **Python, SQL, TensorFlow, Scikit-learn, and RAG (Retrieval-Augmented Generation)**.  
-🔹 Always eager to learn, build, and contribute to impactful AI-driven projects.  
+---
+
+## 🌟 About Me
+🔹 Passionate about solving real-world problems using **Machine Learning, Deep Learning, Generative AI, and LLMs (Large Language Models)**  
+🔹 Strong foundation in **Python, SQL, TensorFlow, Scikit-learn, and Retrieval-Augmented Generation (RAG)**  
+🔹 Always eager to **learn, build, and contribute** to impactful AI-driven projects  
+
+💡 *"Turning data into intelligence, and intelligence into solutions."*
 
 ---
 
@@ -17,40 +23,45 @@
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
 ### 📝 [Twitter Product Sentiment Analysis](#)  
-- Sentiment analysis on Apple product tweets using TensorFlow & NLP.  
-- Integrated PostgreSQL for storage & retrieval.  
+- Sentiment analysis on Apple product tweets using TensorFlow & NLP  
+- PostgreSQL integration for efficient storage & retrieval  
 
 ### 🧠 [Mental Workload Detection in Pilots (EEG)](#)  
-- Developed **CNN-LSTM hybrid model**, achieving **98.49% accuracy**.  
-- Specialized EEG data preprocessing & deep learning.  
+- Developed **CNN-LSTM hybrid model**, achieving **98.49% accuracy**  
+- Specialized EEG preprocessing + deep learning  
 
 ### 🎬 [Movies Recommender System](#)  
-- Built personalized recommender with **98% accuracy**.  
-- Streamlit GUI + TMDB API integration.  
+- Built personalized recommender with **98% accuracy**  
+- Streamlit GUI + TMDB API integration  
 
 ### 📄 [Q/A Bot for Multiple PDFs](#)  
-- Built **LLM + RAG powered chatbot** to query PDFs.  
-- Retrieves relevant sections + generates accurate answers.  
+- Developed **LLM + RAG powered chatbot** for querying PDFs  
+- Retrieves relevant sections + generates context-aware answers  
 
 ### 🧪 [Cervical Cancer Prediction](#)  
-- Applied EDA + visualization.  
-- Achieved **95.34% accuracy** using XGBoost.  
+- Applied EDA & data visualization  
+- Achieved **95.34% accuracy** using XGBoost  
 
-👉 *Check out more projects on my [Repositories](https://github.com/Sheeza-Sheeza?tab=repositories).*  
+👉 *Explore more projects on my [Repositories](https://github.com/Sheeza-Sheeza?tab=repositories)*  
 
 ---
 
-## 📈 GitHub Stats
-![Sheeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheeza-Sheeza&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheeza-Sheeza&layout=compact&theme=radical)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheeza-Sheeza&show_icons=true&theme=tokyonight" alt="Sheeza's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheeza-Sheeza&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-📧 **Email:** sheezarafique266@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/sheezarafique672010238)  
-💻 [GitHub](https://github.com/Sheeza-Sheeza)  
+📧 **Email:** [sheezarafique266@gmail.com](mailto:sheezarafique266@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/sheezarafique672010238](https://linkedin.com/in/sheezarafique672010238)  
+💻 **GitHub:** [github.com/Sheeza-Sheeza](https://github.com/Sheeza-Sheeza)  
+
+---
+
+⚡ *“Always learning. Always building. Always innovating.”*  
