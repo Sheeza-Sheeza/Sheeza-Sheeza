@@ -1,7 +1,7 @@
 <!-- Profile README for Sheeza Rafique -->
 
 <h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
-<h3 align="center">AI Engineer | Data Scientist | Deep Learning Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning Expert| Deep Learning Engineer | AI Enthusiast</h3>
 <p align="center">Machine Learning | LLMs | RAG | Generative AI</p>
 
 ---
@@ -29,49 +29,62 @@ class AIEngineer:
 ## 🛠️ Tech Stack  
 
 ### 👩‍💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+</p>
 
 ### ⚙️ Tools & Technologies  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ### 📚 Libraries & Frameworks  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 ### 🤖 Machine Learning  
-![KNN](https://img.shields.io/badge/KNN-1E90FF?style=for-the-badge)  
-![SVM](https://img.shields.io/badge/SVM-800080?style=for-the-badge)  
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)  
-![Regression](https://img.shields.io/badge/Regression-FF1493?style=for-the-badge)  
-![Clustering](https://img.shields.io/badge/Clustering-FFD700?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/KNN-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SVM-800080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clustering-FFD700?style=for-the-badge" />
+</p>
 
 ### 🧠 Deep Learning  
-![CNN](https://img.shields.io/badge/CNN-FF4500?style=for-the-badge)  
-![RNN](https://img.shields.io/badge/RNN-008B8B?style=for-the-badge)  
-![LSTM](https://img.shields.io/badge/LSTM-4B0082?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/CNN-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNN-008B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-4B0082?style=for-the-badge" />
+</p>
 
 ### 🗄️ Database Management  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### 🚀 Other Skills  
-![Model Deployment](https://img.shields.io/badge/Model%20Deployment-FF8C00?style=for-the-badge)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![RAG](https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge)  
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Model%20Deployment-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
+</p>
 
 ## 📌 Featured Projects
 📝 Twitter Sentiment Analysis
