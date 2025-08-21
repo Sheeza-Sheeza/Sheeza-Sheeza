@@ -26,7 +26,13 @@ class AIEngineer:
 💡 Always eager to learn, build, and contribute to impactful AI-driven projects.
 
 
-## 🛠️ Tech Stack  
+---
+
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+
+# 🛠️ Tech Stack  
+
+---
 
 ### 👩‍💻 Programming  
 <p align="center">
@@ -85,6 +91,12 @@ class AIEngineer:
   <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
 </p>
+
+---
+
+</div>
+
+---
 
 ## 📌 Featured Projects
 📝 Twitter Sentiment Analysis
