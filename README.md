@@ -1,14 +1,23 @@
-<!-- Dark Themed GitHub Profile README for Sheeza Rafique -->
+<!-- Profile README for Sheeza Rafique -->
 
 <h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
-<h3 align="center">🚀 AI & Data Science Enthusiast | Machine Learning Engineer | Deep Learning Researcher</h3>
+<h3 align="center">🚀 AI Engineer | Data Scientist | Machine Learning & Deep Learning Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
-🔹 Passionate about solving real-world problems using **Machine Learning, Deep Learning, Generative AI, and LLMs (Large Language Models)**  
-🔹 Strong foundation in **Python, SQL, TensorFlow, Scikit-learn, and Retrieval-Augmented Generation (RAG)**  
-🔹 Always eager to **learn, build, and contribute** to impactful AI-driven projects  
+## 🌟 About Me  
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Sheeza Rafique"
+        self.role = "AI Engineer & Data Scientist"
+        self.focus = ["Machine Learning", "Deep Learning", "RAG", "LLMs"]
+        self.status = "Always learning, building & innovating"
+
+    def say_hi(self):
+        print("Excited to connect and build impactful AI solutions together!")
+
 
 💡 *"Turning data into intelligence, and intelligence into solutions."*
 
