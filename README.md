@@ -13,15 +13,16 @@
 ## 🌟 About Me  
 
 ```python
-class DataScientist:
+class AIEngineer:
     def __init__(self):
         self.name = "Sheeza Rafique"
-        self.role = "AI Engineer | Data Scientist | Deep Learning Enthusiast"
-        self.focus = ["Machine Learning", "Deep Learning", "RAG", "LLMs"]
-        self.status = "Always learning, building & innovating"
+        self.role = ["AI Engineer", "Data Scientist", "Deep Learning Enthusiast"]
+        self.interests = ["Machine Learning", "LLMs", "RAG", "Generative AI"]
+        self.status = "Building cool AI projects 🚀"
 
     def say_hi(self):
-        print("Excited to connect and build impactful AI solutions together!")
+        return "Let's innovate with AI together!"
+
 ```
 💡 Passionate about applying Machine Learning, Deep Learning, Generative AI, and RAG to solve real-world problems.
 💡 Strong foundation in Python, SQL, TensorFlow, Scikit-learn, Docker, Flask, Streamlit, PostgreSQL & Firebase.
