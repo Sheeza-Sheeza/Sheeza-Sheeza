@@ -1,7 +1,7 @@
 <!-- Profile README for Sheeza Rafique -->
 
 <h1 align="center">Hi 👋, I'm Sheeza Rafique</h1>
-<h3 align="center">Data Scientist | Machine Learning Expert| Deep Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning Expert | Deep Learning Engineer | AI Enthusiast</h3>
 <p align="center">Machine Learning | LLMs | RAG | Generative AI</p>
 
 ---
