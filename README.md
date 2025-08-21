@@ -23,3 +23,6 @@ class DataScientist:
     def say_hi(self):
         print("Excited to connect and build impactful AI solutions together!")
 ```
+💡 Passionate about applying Machine Learning, Deep Learning, Generative AI, and RAG to solve real-world problems.
+💡 Strong foundation in Python, SQL, TensorFlow, Scikit-learn, Docker, Flask, Streamlit, PostgreSQL & Firebase.
+💡 Always eager to learn, build, and contribute to impactful AI-driven projects.
